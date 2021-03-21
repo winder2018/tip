@@ -1,0 +1,2 @@
+# tip
+bluetooth dev
